@@ -1,0 +1,7 @@
+Click on the link corresponding to the VM against your name.
+Enter username and password
+Agree to everything that opens.
+Open Edge and continue to accept without signing in.
+Type https://portal.azure.com
+Enter your Azure username and password. Change the password if asked.
+You might see a Action Required box asking you to provide details . Click on "Ask Later" or "Skip" as many times till you see the welcome to Azure message.
